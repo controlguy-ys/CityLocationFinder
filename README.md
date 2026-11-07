@@ -1,6 +1,9 @@
-# City Direction & Distance Finder
+# City Direction & Distance Finder (`CityLocationFinder`)
 
-This web application allows you to find the distance and direction to a city from your current location.
+[![Web API](https://img.shields.io/badge/Browser_API-Geolocation_%2B_DeviceOrientation-0082FC)](#features)
+[![i18n](https://img.shields.io/badge/i18n-EN_%7C_KO_%7C_JA_%7C_ZH_%7C_ES-10A37F)](#features)
+
+A zero-dependency, multi-lingual web utility that calculates great-circle distance (Haversine formula) and real-time compass bearing from the user's live GPS coordinates to global cities or custom latitude/longitude targets.
 
 ## Features
 
